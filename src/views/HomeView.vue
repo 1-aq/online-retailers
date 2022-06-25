@@ -2,6 +2,7 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
+    <h1>dasdasdasd</h1>
   </div>
 </template>
 
@@ -12,7 +13,7 @@ import HelloWorld from '@/components/HelloWorld.vue'
  *
  */
 export default {
-  name: "HomeView",
+  name: 'HomeView',
   components: {
     HelloWorld
   }
